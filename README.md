@@ -1,1 +1,1 @@
-asc code list source code
+clear command line to Fedora
